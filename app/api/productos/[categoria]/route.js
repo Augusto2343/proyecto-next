@@ -1,7 +1,6 @@
 import { NextResponse } from "next/server";
 import {addDoc, collection,docs, getDocs,query,where} from "firebase/firestore"
 import {db} from "@/app/firebase/config"
-import productos from "@/app/data/productos.json"
 export async function  GET (response, {params}){
     const {categoria} = await params; 
     const productosCollection = collection(db,"productos");
