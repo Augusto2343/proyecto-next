@@ -6,8 +6,7 @@ import BotonesMain from "./components/BotonesMain";
 import ObtenerContenido from "./components/ObtenerContenido";
 import InfoCards from "./components/infoCards";
 export default function Home() {
-  console.log("Hello");
-  
+
   return (
     <>
     <Header/>
