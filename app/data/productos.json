@@ -1,0 +1,64 @@
+[{
+        "idx":1,
+        "titulo":"GMC Canyon",
+        "descripcion":"Pick up mediana con motor Turbomax naftero de 310HP,con pantalla de 11.0 pulgadas y es capaz de remolcar hasta 7700 LBS (3492KG)",
+        "precio":38400000,
+        "destacado":true,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2025/trucks/canyon/overview/trim-cards/2025-canyon-elevation-779x394-v2.png?imwidth=1920",
+        "categoria":"pick-up"
+    },
+{
+        "idx":2,
+        "titulo":"GMC Sierra 1500",
+        "descripcion":"Pick up LD (Light Duty) con motor Turbomax naftero de 310HP,con asistente de conducción Supercruise  y es capaz de remolcar hasta 13200 LBS (5987 KG)",
+        "precio":40000000,
+        "destacado":false,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/shared-assets/jellybeans/2024/sierra-1500/standard-size/2024-sierra-1500-ult-titanium-rush-779x394.png?imwidth=1920",
+        "categoria":"pick-up"
+    },
+    {
+        "idx":3,
+        "titulo":"GMC Sierra HD",
+        "descripcion":"Pick up HD ( Heavy duty) con motor Duramax turbo-diesel de 6.6  de 470HP y 719 Nm de torque,con pantalla de 11.0 pulgadas y es capaz de remolcar hasta 36000 LBS (16330KG)",
+        "precio":50000000,
+        "destacado":true,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2025/trucks/sierra-hd/overview/jellies/2025-sierra-2500-den-ult-titanium-rush-metallic-1000x563.png?imwidth=1920",
+        "categoria":"pick-up"
+    },
+    {
+        "idx":4,
+        "titulo":"GMC Terrain",
+        "descripcion":"Suv compacta con un diseño innovador y atractivo, incluyendo tecnología de ultima generacion y asientos para 5 personas",
+        "precio":29900,
+        "destacado":false,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/shared-assets/jellybeans/2026/terrain/2026-terrain-default-elevation-ebony-twilight-1000x563.png?imwidth=2400",
+        "categoria":"suv"
+    },
+    {
+        "idx":5,
+        "titulo":"GMC Acadia",
+        "descripcion":"Suv mediana con un diseño innovador y atractivo, incluyendo tecnología de ultima generacion y asientos para 5 personas",
+        "precio":29900,
+        "destacado":false,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/shared-assets/jellybeans/2026/terrain/2026-terrain-default-elevation-ebony-twilight-1000x563.png?imwidth=2400",
+        "categoria":"suv"
+    },
+    {
+        "idx":6,
+        "titulo":"GMC Acadia",
+        "descripcion":"Suv mediana con un diseño innovador y atractivo, incluyendo tecnología de ultima generacion y asientos para 8 personas",
+        "precio":43000,
+        "destacado":false,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2025/suvs/acadia/overview/trims/2025-acadia-elevation-779x394.png?imwidth=2400",
+        "categoria":"suv"
+    },
+    {
+        "idx":7,
+        "titulo":"GMC Yukon",
+        "descripcion":"Suv grande con un diseño innovador y atractivo, incluyendo tecnología de ultima generacion y asientos para 8 personas",
+        "precio":67200,
+        "destacado":true,
+        "imagen":"https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicles/2025/suvs/yukon/overview/2025-yukon-elevation-volcanic-red-779x394.png?imwidth=3000",
+        "categoria":"suv"
+    }
+]
