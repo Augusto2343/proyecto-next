@@ -19,13 +19,13 @@ Incluye funcionalidades como autenticación, visualización de productos y un si
 ## 🚀 Deploy
 
 La aplicación está desplegada en Vercel:
- [**Link al sitio**](https://tu-link.vercel.app) ← *\[Reemplazá esto con tu URL]*
+ [**Link al sitio**](https://proyecto-gmc.vercel.app) ← *\[Reemplazá esto con tu URL]*
 
 ## 🖼️ Captura de pantalla
 
 > Asegurate de agregar tu screenshot en la carpeta `/public` y reemplazar el nombre en el link.
 
-![Screenshot de la app](./public/screenshot.png)
+![Screenshot de la app](./public/image.png)
 
 ## 🛠️ Instalación local
 
