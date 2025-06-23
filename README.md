@@ -25,7 +25,7 @@ La aplicación está desplegada en Vercel:
 
 > Asegurate de agregar tu screenshot en la carpeta `/public` y reemplazar el nombre en el link.
 
-![Screenshot de la app](./public/image.png)
+![Screenshot de la app](./public/screenshot.png)
 
 ## 🛠️ Instalación local
 
