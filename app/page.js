@@ -15,7 +15,7 @@ export default function Home() {
     <ObtenerContenido/>
     <Banner titulo={"Recursos para el cliente"}  transparentacion={"20%"} ladoEfecto={"left"} img="https://firebasestorage.googleapis.com/v0/b/proyectogmc-70d84.firebasestorage.app/o/interior%20sierra.avif?alt=media&token=b1e9395f-0756-4fb8-810f-eb1d5fbf8817 ">
     
-    <div className="cartas flex flex-row gap-15">
+    <div className="cartas flex flex-row flex-wrap gap-15">
     <InfoCards >
     <svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24"><g fill="none" stroke="#000" strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}><circle cx={12} cy={12} r={10}></circle><circle cx={12} cy={12} r={2}></circle><circle cx={12} cy={12} r={6}></circle><path d="M12 14v4m-1.9-5.38l-3.8 1.23m4.52-3.47L8.47 7.15m5.43 5.47l3.8 1.23m-4.52-3.47l2.35-3.23"></path></g></svg>
     <h3 className="text-black text-2xl">Equipate para explorar el siguiente evento.</h3>

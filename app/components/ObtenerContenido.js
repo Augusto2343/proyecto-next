@@ -4,7 +4,7 @@ import ModelsCarousel from "./ModelsCarousel"
 const ObtenerContenido =  () =>{
     const [items, setItems] = useState([]);
     const setear = async(category) =>{
-        const response = await fetch(`https://proyecto-gmc.vercel.app/api/productos/${category}`)
+        const response = await fetch(`http://localhost:3000/api/productos/${category}`)
         const data = await response.json();
     setItems(data)
     }
