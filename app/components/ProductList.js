@@ -1,7 +1,7 @@
 import Link from "next/link";
 import ProductCard from "./ProductCard";
 const ProductList = async ({categoria}) =>{
-    const response = await fetch("http://localhost:3000/api/" + categoria,
+    const response = await fetch("https://proyecto-gmc.vercel.app/api/" + categoria,
         {cache:"no-store"
 
         });
