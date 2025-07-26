@@ -18,7 +18,7 @@ const CartContextProvider = ({children}) =>{
         }
         else{
            
-            const response = await fetch("http://localhost:3000/api/producto/"+ id)
+            const response = await fetch("https://proyecto-gmc.vercel.app/api/producto/"+ id)
             const item =await  response.json()
             product= {...item, quantity:1};
             setCart([...cart,product]);
