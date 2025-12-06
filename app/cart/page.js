@@ -19,7 +19,7 @@ const Cart =() =>{
       )
     }
   return (
-    <div className="vistaProducto flex flex-col items-center justify-center">
+    <div className="vistaProducto flex flex-col gap-3 p-1 items-center justify-center">
 
         
         {
@@ -41,7 +41,7 @@ const Cart =() =>{
         ))
         }
         
-      <div className="flex flex-row gap-10  items-center">
+      <div className="flex flex-row gap-10 mt-3  items-center">
           <h2 className="text-gray-200 text-xl">Total a pagar: <b>${sumItem()}</b></h2>
           <button onClick={clearCart} className=" flex flex-row gap-10 items-center focus:outline-none text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900">
             Vaciar el carrito
