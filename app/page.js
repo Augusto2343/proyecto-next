@@ -13,7 +13,7 @@ export default function Home() {
     <Carousel imgArray={ arrayNovedades}></Carousel>
     <BotonesMain/>
     <ObtenerContenido/>
-    <Banner titulo={"Recursos para el cliente"}  transparentacion={"20%"} ladoEfecto={"left"} img="https://firebasestorage.googleapis.com/v0/b/proyectogmc-70d84.firebasestorage.app/o/interior%20sierra.avif?alt=media&token=b1e9395f-0756-4fb8-810f-eb1d5fbf8817 ">
+    <Banner titulo={"Recursos para el cliente"}  transparentacion={"20%"} ladoEfecto={"left"} img="https://www.gmc.com/content/dam/gmc/na/us/english/index/gmc-life/all-stories/truck-interiors/gmc-life-truck-interiors-mh-2500x833-24PGSRLD00294-a.jpg?imwidth=960 ">
     
     <div className="cartas flex flex-row flex-wrap gap-15">
     <InfoCards >

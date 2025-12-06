@@ -7,7 +7,7 @@ const Banner = ({img,ladoEfecto,transparentacion,children,titulo}) =>{
     return(
         <div className=" relative banner h-auto">
         <div className={classes}>
-            <img src={img} className="imgBanner " alt="Banner" /> 
+            <img src={img} className="imgBanner w-screen " alt="Banner" /> 
             </div>
         <div className=" bannerItems  w-full items-center justify-between flex flex-row absolute">
         <h2 className=" ml-10 text-2xl text-gray-200">{titulo}</h2>

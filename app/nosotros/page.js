@@ -5,8 +5,8 @@ const Nosotros = () =>{
     return(
         <>
         <section className=" relative w-screen h-full  mb-10">
-            <Banner  transparentacion={"20%"} ladoEfecto={"left"} img={"https://firebasestorage.googleapis.com/v0/b/proyectogmc-70d84.firebasestorage.app/o/bannerInicio.avif?alt=media&token=868380ad-8671-4376-9d8a-0850ace26e8d"} >
-            <h2 className="text-white text-2xl font-bold">Nosotros</h2>
+            <Banner  transparentacion={"20%"} ladoEfecto={"left"} titulo={"Nosotros"} img={"https://gld-creative.s3.us-west-2.amazonaws.com/2024-gmc-trucks-parked-in-front-of-mountains-banner-672bdae65778-1920x600.png"} >
+            
             </Banner>
         </section>
         <NosotrosCont/>
