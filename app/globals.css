@@ -41,6 +41,13 @@ body {
     right: 10%;
   }
 }
+@media(max-width:1079px){
+  .detalleProducto{
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+  } 
+}
 @media( max-width:1290px){
   .bannerItems{
     top: 10%;
