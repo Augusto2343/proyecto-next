@@ -9,8 +9,8 @@ const Banner = ({img,ladoEfecto,transparentacion,children,titulo}) =>{
         <div className={classes}>
             <img src={img} className="imgBanner " alt="Banner" /> 
             </div>
-        <div className=" bannerItems p-20 w-full items-center justify-between flex flex-row absolute">
-        <h2 className="text-2xl text-gray-200">{titulo}</h2>
+        <div className=" bannerItems  w-full items-center justify-between flex flex-row absolute">
+        <h2 className=" ml-10 text-2xl text-gray-200">{titulo}</h2>
             {children}
         </div>
         </div>
